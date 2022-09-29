@@ -1,1 +1,1 @@
-print("HelloWorld!")
+print("This is the first lab!")
